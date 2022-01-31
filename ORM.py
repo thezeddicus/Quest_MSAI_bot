@@ -17,7 +17,7 @@ def save():
 	p1 = Sentence(words="Empire is not just about New York.")
 	p2 = Sentence(words="It is about hope")
 	p3 = Sentence(words="No matter where we are from")
-	p4 = Sentence(words="we all want the opportunity to work hard")
+	p4 = Sentence(words="we all want the opportunity to work hard.")
 	p5 = Sentence(words="Breathe life into our ambitions.")
 
 # return info
