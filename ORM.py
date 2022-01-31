@@ -14,7 +14,7 @@ db.generate_mapping(create_tables=True)
 # Save info in database
 @db_session
 def save():
-	p1 = Sentence(words="“Empire” isn’t just about New York.")
+	p1 = Sentence(words="Empire isn’t just about New York.")
 	p2 = Sentence(words="It’s about hope.")
 	p3 = Sentence(words="No matter where we’re from")
 	p4 = Sentence(words="we all want the opportunity to work hard")
